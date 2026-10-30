@@ -1,0 +1,90 @@
+{
+  "description": "Photographed examples, not a live stock list",
+  "prepared_date": "2026-10-30",
+  "items": [
+    {
+      "id": "stainless-range",
+      "title": "Stainless steel range and oven",
+      "category": "Appliances",
+      "photo": "photos/stainless-range.jpg",
+      "observed_date": "2026-08-07",
+      "date_basis": "Source camera metadata; not independently verified",
+      "availability": "unconfirmed",
+      "condition": "unverified",
+      "price": null,
+      "notes": "Visible Viking branding; model and operating condition unverified."
+    },
+    {
+      "id": "vending-machine",
+      "title": "Pepsi vending machine and food warmer",
+      "category": "Appliances",
+      "photo": "photos/vending-machine.jpg",
+      "observed_date": "2026-08-07",
+      "date_basis": "Source camera metadata; not independently verified",
+      "availability": "unconfirmed",
+      "condition": "unverified",
+      "price": null,
+      "notes": "Branding and old labels are part of the photographed objects, not current prices or an endorsement."
+    },
+    {
+      "id": "folding-tables",
+      "title": "Stacked folding tables",
+      "category": "Furniture",
+      "photo": "photos/folding-tables.jpg",
+      "observed_date": "2026-08-07",
+      "date_basis": "Source camera metadata; not independently verified",
+      "availability": "unconfirmed",
+      "condition": "unverified",
+      "price": null,
+      "notes": "Dimensions and quantities unverified."
+    },
+    {
+      "id": "sewing-machine",
+      "title": "Juki industrial sewing machine on a table",
+      "category": "Shop equipment",
+      "photo": "photos/sewing-machine.jpg",
+      "observed_date": "2026-08-07",
+      "date_basis": "Source camera metadata; not independently verified",
+      "availability": "unconfirmed",
+      "condition": "unverified",
+      "price": null,
+      "notes": "Model and operating condition unverified."
+    },
+    {
+      "id": "glass-front-cabinets",
+      "title": "Green glass-front metal cabinets",
+      "category": "Storage",
+      "photo": "photos/glass-front-cabinets.jpg",
+      "observed_date": "2026-08-07",
+      "date_basis": "Source camera metadata; not independently verified",
+      "availability": "unconfirmed",
+      "condition": "unverified",
+      "price": null,
+      "notes": "Dimensions and quantities unverified."
+    },
+    {
+      "id": "caster-wheels",
+      "title": "Assorted caster wheels",
+      "category": "Shop supplies",
+      "photo": "photos/caster-wheels.jpg",
+      "observed_date": "2026-08-07",
+      "date_basis": "Source camera metadata; not independently verified",
+      "availability": "unconfirmed",
+      "condition": "unverified",
+      "price": null,
+      "notes": "Sizes, load ratings and quantities unverified."
+    },
+    {
+      "id": "tabletops",
+      "title": "Stacked tabletops",
+      "category": "Furniture",
+      "photo": "photos/tabletops.jpg",
+      "observed_date": "2026-08-07",
+      "date_basis": "Source camera metadata; not independently verified",
+      "availability": "unconfirmed",
+      "condition": "unverified",
+      "price": null,
+      "notes": "Table bases and completeness unverified."
+    }
+  ]
+}
